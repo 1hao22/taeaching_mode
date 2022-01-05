@@ -1,0 +1,57 @@
+*{
+    font-family: 'cwTeXYen';
+    font-weight: 700;
+}
+.background{
+background-color: #FFB58B;
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1194px;
+height: 834px;
+}
+
+.tittle{
+    color: white;
+    font-size: 52px;
+    position: absolute;
+    top: 26px;
+    left: 150px;
+}
+.lastPage{
+    position: absolute;
+    left: 27px;
+    top: 74px;    
+}
+.home{
+    position: absolute;
+    left: 1068px;
+    top: 74px;    
+}
+.box1{
+    position: absolute;
+    left: 70px;
+    top: 272px;    
+}
+.box2{
+    position: absolute;
+    left: 640px;
+    top: 272px;    
+}
+.box1text{
+    position: absolute;
+    font-size: 60px;
+    left: 195px;
+    top: 240px;
+    color: white;
+    letter-spacing: 3px;
+    font-weight: 800;
+}
+.box2text{
+    position: absolute;
+    font-size: 60px;
+    left: 765px;
+    top: 240px;
+    color: white;
+    letter-spacing: 3px;
+}
